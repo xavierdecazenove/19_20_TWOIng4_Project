@@ -1,4 +1,4 @@
-# Info PROJET DE XAVIER DE CAZENOVE & LEONARD DEVINCRE 
+# INFOS PROJET DASHBOARD DE XAVIER DE CAZENOVE & LEONARD DEVINCRE 📣
 
 Notre projet a été initialement pensé par rapport à notre projet de PPE : Veelo 
 (Une solution pour guider les cyclistes en ville sans aucune distraction visuelle et auditive)
@@ -11,9 +11,7 @@ L'interface est fluide, responsive et facilement compréhensible.
 Un formulaire a aussi été créé afin de permettre à l'administrateur de saisir de nouveau utlisateurs, de les mettre à jour et même de les supprimer. 
 
 -----
-
-Tous le cahier des charges a été respecté ! Nous avons même fait les bonus : Update User, Delete User 
--
+Tous le cahier des charges a été respecté ! Nous avons même fait les bonus : Update User, Delete User
 -----
 
 Maintenant, pour organiser notre projet nous avons utilisé AirTable : https://airtable.com/invite/l?inviteId=invKOTRwNuvVy5l01&inviteToken=4f0cd15495bb659f5d43179ad8b1fbd4c3c99c74ec4c4829656cc307b4cb0f02
@@ -32,8 +30,9 @@ Nos liens GitHub de notre projet :
 
 Il faut lancer les deux indépendamments!
 
-Nous avons aussi mis notre front et le back en ligne : https://dashboard-veel-jtb-v2.herokuapp.com
-
+-----
+Nous avons aussi mis notre front et le back en ligne : https://dashboard-veel-jtb-v2.herokuapp.com ! BON VISIONNAGE 😊
+-----
 
 
 
