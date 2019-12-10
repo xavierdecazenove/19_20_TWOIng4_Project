@@ -1,23 +1,29 @@
-# Projet de fin de semestre
+# Info PROJET DE XAVIER DE CAZENOVE & LEONARD DEVINCRE 
 
-A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
+Notre projet a été initialement pensé par rapport à notre projet de PPE : Veelo 
+(Une solution pour guider les cyclistes en ville sans aucune distraction visuelle et auditive)
 
-<p align="center">
- <a href="https://github.com/clementAC/Instructions-Technologies-Web-OCRES-Ing4/blob/master/README.md">Règles pour le semestre</a>
-</p>
+Par soucis de temps, nous sommes revenu sur le projet que vous avez proposé avec les Maisons connectés. 
 
-## Introduction
+Nous avons créé un dashboard permettant à l'administrateur de la solution de capteurs connectés de gérer ses utilisateurs. Il peut facilement avoir accès aux différents profils et aux données nécessaire en cas de disfonctionnement ou de résultats anormales. S'il le veut, il peut même avoir accès aux différentes mesures prises par les capteurs de façon brut (format JSON)!
 
-Ce repo git contient deux repertoires. L'un concerne la partie backend et l'autre la partie frontend.
+L'interface est fluide, responsive et facilement compréhensible. 
+Un formulaire a aussi été créé afin de permettre à l'administrateur de saisir de nouveau utlisateurs, de les mettre à jour et même de les supprimer. 
 
-Les deux repertoires ont été initialisé pour vous aider à démarrer le projet dans les meilleures conditions.
+-----
 
-Chacun de ces repertoires contient un README.md qui vous pouvez vous approprier. Nous vous encourageons à le faire en y mettant toute les informations nécessaires à la compréhension de votre projet
+Maintenant, pour organiser notre projet nous avons utilisé AirTable : https://airtable.com/invite/l?inviteId=invKOTRwNuvVy5l01&inviteToken=4f0cd15495bb659f5d43179ad8b1fbd4c3c99c74ec4c4829656cc307b4cb0f02
+Il a été utile surtout au début pour référencer toutes les différentes phases de construction du projet.
 
-## Instructions
+Nos liens GitHub de notre projet : 
+- Front : https://github.com/leodevin/ProjetTechnoWeb-LD-XDC-front
+- Back : https://github.com/leodevin/ProjetTechnoWeb-LD-XDC-back
 
-Les instructions sont à retrouver dans le pdf mis à disposition sur campus.
+Il faut lancer les deux indépendamments!
 
-**Le non respect de ces instructions entraînera des pertes de points alors prenez le temps de tout lire et de poser des questions si vous ne comprenez pas**
+Nous avons aussi mis notre front en ligne 
 
-Pour rappel, la probabilité de recevoir une réponse à un mail envoyé quelques heures avant le rendu est très proche de 0.
+-----
+
+Tous le cahier des charges a été respecté ! Nous avons même fait les bonus : Update User, Delete User 
+-
