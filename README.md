@@ -3,7 +3,7 @@
 Notre projet a été initialement pensé par rapport à notre projet de PPE : Veelo 
 (Une solution pour guider les cyclistes en ville sans aucune distraction visuelle et auditive)
 
-Par soucis de temps, nous sommes revenu sur le projet que vous avez proposé avec les Maisons connectés. 
+Mais comme c'est un peu fastidieux d'inventer une database complète, nous sommes revenu sur l'utilisation de la database que vous aviez proposé avec les Maisons connectés. 
 
 Nous avons créé un dashboard permettant à l'administrateur de la solution de capteurs connectés de gérer ses utilisateurs. Il peut facilement avoir accès aux différents profils et aux données nécessaire en cas de disfonctionnement ou de résultats anormales. S'il le veut, il peut même avoir accès aux différentes mesures prises par les capteurs de façon brut (format JSON)!
 
@@ -28,10 +28,11 @@ Nos liens GitHub de notre projet :
 - Front : https://github.com/leodevin/ProjetTechnoWeb-LD-XDC-front
 - Back : https://github.com/leodevin/ProjetTechnoWeb-LD-XDC-back
 
-Il faut lancer les deux indépendamments!
+Il faut lancer les deux indépendamments! 
+NB: Back en localhost:3000 
 
 -----
-Nous avons aussi mis notre front et le back en ligne : https://dashboard-veel-jtb-v2.herokuapp.com ! BON VISIONNAGE 😊
+Sinon, nous avons aussi mis notre front et back en ligne (c'est plus facile que de compiler les deux projets): https://dashboard-veel-jtb-v2.herokuapp.com ! BON VISIONNAGE 😊
 -----
 
 
